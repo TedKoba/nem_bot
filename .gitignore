@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+args_twitter_keys.py
 # C extensions
 *.so
+*.DS_Store
+migrations/
+*.sqlite3
 
 # Distribution / packaging
 .Python
