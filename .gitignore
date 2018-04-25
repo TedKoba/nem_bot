@@ -8,6 +8,7 @@ args_twitter_keys.py
 *.DS_Store
 migrations/
 *.sqlite3
+*.db
 
 # Distribution / packaging
 .Python
